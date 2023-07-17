@@ -1,2 +1,4 @@
 Gitの練習をしてイク
 イク方法を学びます
+git add
+git commit
